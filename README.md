@@ -3,5 +3,5 @@
 - [x] Lista todos produtos
 - [x] Lista produto por ID
 - [x] Insere produto
-- [ ] Remove produto
+- [x] Remove produto
 - [ ] Atualiza produto
