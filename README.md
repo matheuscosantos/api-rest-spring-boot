@@ -4,4 +4,4 @@
 - [x] Lista produto por ID
 - [x] Insere produto
 - [x] Remove produto
-- [ ] Atualiza produto
+- [x] Atualiza produto
